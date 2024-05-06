@@ -143,7 +143,7 @@ textarea:focus {
 
 .edit-controller {
   display: flex;
-  gap: 32px;
+  gap: 2rem;
 }
 
 .edit-controller .deleteBtn {
@@ -198,12 +198,12 @@ footer {
 
   .to-do-input input {
     width: 240px;
-    padding: 8px;
-    font-size: 1.4rem;
+    padding: 14px;
+    font-size: 1rem;
   }
 
   .to-do-input button {
-    padding: 8px;
-    font-size: 1.4rem;
+    padding: 14px;
+    font-size: 1.2rem;
   }
 }
