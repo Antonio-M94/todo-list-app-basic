@@ -198,12 +198,12 @@ footer {
 
   .to-do-input input {
     width: 240px;
-    padding: 14px;
-    font-size: 1rem;
+    padding: 8px;
+    font-size: 1.4rem;
   }
 
   .to-do-input button {
-    padding: 14px;
-    font-size: 1.2rem;
+    padding: 8px;
+    font-size: 1.4rem;
   }
 }
