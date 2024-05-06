@@ -186,6 +186,9 @@ footer {
     text-align: center;
     margin-bottom: 8rem;
   }
+  .input-header h1 {
+    margin-bottom: 1.4rem;
+  }
 
   .input-header {
     flex-direction: column;
